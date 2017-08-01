@@ -1,2 +1,2 @@
 # todo-list
-simple app for managing tasks
+Simple app for managing your todo list
